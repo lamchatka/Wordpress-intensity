@@ -17,7 +17,7 @@ body {
 
 .promo {
     height: 800px;
-    background-image: url('/images/background/main_bg.png');
+    background-image: url('../images/background/main_bg.png');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ h2.title {
 .education {
     padding: 86px 0 79px 0;
     min-height: 447px;
-    background-image: url('/images/background/second_bg.png');
+    background-image: url('../images/background/second_bg.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
